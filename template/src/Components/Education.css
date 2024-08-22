@@ -1,0 +1,58 @@
+.education {
+    margin-bottom: 20px;
+  }
+  
+  .education h2 {
+    color: #090a0a;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .education div {
+    margin-bottom: 20px;
+  }
+  
+  .education h3 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 1.2em;
+    margin: 0;
+  }
+  
+  .education h3 .date {
+  color: #0a0a0a;
+  }
+  
+  .education p {
+    margin: 5px 0;
+    font-weight: bold;
+  }
+  
+  .education ul {
+    padding-left: 20px;
+    list-style-type: disc;
+  }
+  .education input {
+    border: 1px solid #ccc;
+    padding: 5px;
+    font-size: 1em;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  
+  .education input:focus {
+    border-color: #08549C;
+  }
+  
+  .education ul li {
+    margin-bottom: 10px;
+  }
+  .educ-line {
+    border: 0;
+    height: 1px;
+    background-color: #011F4B; 
+    margin-top: 20px;
+    width: 100%; 
+  }
+  

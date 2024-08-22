@@ -1,0 +1,67 @@
+.experience {
+    margin-bottom: 20px;
+  }
+  
+  .experience h2 {
+    color: #090a0a;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .experience div {
+    margin-bottom: 20px;
+  }
+  
+  .experience h3 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 1.2em;
+    margin: 0;
+  }
+  
+  .experience h3 span {
+    font-weight: bold;
+  }
+  
+  .experience .date {
+    color: #0c0c0c;
+  }
+  
+  .experience p {
+    margin: 5px 0;
+    font-style: normal;
+    font-weight: bold;
+  }
+  
+  .experience ul {
+    padding-left: 20px;
+    list-style-type: disc;
+  }
+  .exp-line {
+    border: 0;
+    height: 1px;
+    background-color: #011F4B; 
+    margin-top: 20px;
+    width: 100%; 
+  }
+  .experience-title {
+    font-weight: bold;
+  }
+  
+  .experience-role {
+    font-weight: bold;
+  }
+  
+  .date {
+    font-weight: bold;
+  }
+  
+  .experience p {
+    font-weight: normal;
+  }
+  
+  .experience ul li {
+    font-weight: normal;
+  }
+  

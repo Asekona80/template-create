@@ -1,0 +1,40 @@
+.cv-references {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+
+  }
+  
+  .cv-references h2 {
+    font-weight: bold;
+    text-align: center;
+  }
+  
+  .cv-references .reference-item {
+    margin-bottom: 20px;
+  }
+  
+  .cv-references h3 {
+    font-weight: bold;
+  }
+  
+  .cv-references p {
+    font-weight: normal;
+  }
+  
+  .cv-references span {
+    border-bottom: 1px dashed #000;
+  }
+  
+  .cv-references button {
+    margin-top: 10px;
+    padding: 5px 10px;
+    border: none;
+    background-color: #070707;
+    color: white;
+    cursor: pointer;
+  }
+  
+  .cv-references button:hover {
+    background-color: #011F4B;
+  }
+  

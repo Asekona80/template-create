@@ -1,0 +1,27 @@
+.header {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .header h1 {
+    color: #0d0d0e;
+  }
+  
+  .header p {
+    margin: 5px 0;
+  }
+  .header-line {
+    border: 50px;
+    height: 1px;
+    border-top: 4px solid #020202; 
+    margin-top: 20px;
+    width: 100%; 
+  }
+  .header-title {
+    font-weight: bold;
+  }
+  
+  .header p {
+    font-weight: normal; 
+  }
+  
